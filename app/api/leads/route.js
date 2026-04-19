@@ -1,4 +1,4 @@
-const TO_EMAIL = 'nada.abdelrahman@grandeur-spaces.com'
+const TO_EMAIL = 'apkzoz85@gmail.com'
 
 export async function POST(req) {
   try {
